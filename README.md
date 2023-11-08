@@ -50,3 +50,19 @@ amount of each transaction, and the final attribute “Class” which contains b
 where “1” is a case of fraudulent transaction, and “0” is not as case of fraudulent
 transaction.
 Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+
+![image](https://github.com/SAIKUMAR500/credit-card-/assets/142808645/7f2acce2-beb0-4c87-8348-f2765d1c4cf2)
+
+![image](https://github.com/SAIKUMAR500/credit-card-/assets/142808645/e0bbf4f5-001b-4a44-8ffe-56a4c57004e2)
+
+![image](https://github.com/SAIKUMAR500/credit-card-/assets/142808645/5d6f223a-ef76-4e17-94c4-a7ba848685ca)
+
+![image](https://github.com/SAIKUMAR500/credit-card-/assets/142808645/2db728d1-4c3f-4cdb-b520-f4aba8355e29)
+
+PROJECT AIM
+
+The aim of this project is to predict whether a credit card transaction is fraudulent or not, based on the transaction amount, location and other transaction related data. It aims to track down credit card transaction data, which is done by detecting anomalies in the transaction data. Credit card fraud detection is typically implemented using an algorithm that detects any anomalies in the transaction data and notifies the cardholder (as a precautionary measure) and the bank about any suspicious transaction.
+
+
