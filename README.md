@@ -29,7 +29,16 @@ CNP fraud: Card, not present fraud is a type of fraud where the criminal require
 Clean fraud: Frauds are not as clean as they sound. The purchases are made with stolen cards and later transactions are modified thus making it find a way around the FDS.
 
 Friendly fraud: In friendly fraud the actual cardholder himself makes the purchases and pays for the services using "pull" mode of payment with his credit/debit card. Later reports a complaint stating loss of card and claims for reimbursement.
-
+The dataset was retrieved from an open-source website, Kaggle.com. it contains data of
+transactions that were made in 2013 by credit card users in Europe, in two days only. The
+dataset consists of 31 attributes, 284,808 rows. 28 attributes are numeric variables that
+due to confidentiality and privacy of the customers have been transformed using PCA
+transformation, the three remaining attributes are “Time” which contains the elapsed
+seconds between the first and other transactions of each attribute, “Amount” is the
+amount of each transaction, and the final attribute “Class” which contains binary variables
+where “1” is a case of fraudulent transaction, and “0” is not as case of fraudulent
+transaction.
+Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 Affiliate fraud: It is the most widely distributed fraud where either an individual logs into a website and makes purchases using a false account or a program is designed to carry out fraud activities.
 
 Triangle fraud: Such fraud mainly involves 3 steps: (a) Creating a fake website (b) Providing offers such as immediate delivery upon credit card payment
